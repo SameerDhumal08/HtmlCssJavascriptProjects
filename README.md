@@ -18,7 +18,7 @@ Project1 is a simple web project showcasing interactive elements and a responsiv
 - Works in modern browsers
 
 **Live Demo:**  
-[View Project1](https://SameerDhumal95.github.io/HtmlCssJavascriptProjects/Project1/)
+[View Project1](https://SameerDhumal08.github.io/HtmlCssJavascriptProjects/Project1/)
 
 **Installation / Usage:**
 
