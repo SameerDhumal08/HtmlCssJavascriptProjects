@@ -1,14 +1,14 @@
 # HTML, CSS & JavaScript Projects
 
 This repository contains a collection of small web projects built using **HTML, CSS, and JavaScript**.  
-Currently, it includes **Project1**. Each project demonstrates different web development concepts and can be opened directly in your browser.
+Currently, it includes **Nostalgia Theme**. Each project demonstrates different web development concepts and can be opened directly in your browser.
 
 ---
 
 ## Project1
 
 **Description:**  
-Project1 is a simple web project showcasing interactive elements and a responsive design using HTML, CSS, and JavaScript.
+This web project showcasing interactive elements and a responsive design using HTML, CSS, and JavaScript.
 
 **Features:**
 
