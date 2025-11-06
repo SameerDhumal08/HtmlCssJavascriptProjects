@@ -53,17 +53,11 @@ body {
 
 @media (max-width: 480px) {
   .container {
-    width: 90vw;
+    width: 100vw;
   }
-  .panel:nth-of-type(6),
-  .panel:nth-of-type(7),
-  .panel:nth-of-type(8),
-  .panel:nth-of-type(9),
-  .panel:nth-of-type(10),
-  .panel:nth-of-type(11),
-  .panel:nth-of-type(12),
-  .panel:nth-of-type(13),
-  .panel:nth-of-type(14) {
+
+  .panel:nth-of-type(4),
+  .panel:nth-of-type(5) {
     display: none;
-  } 
+  }
 }
